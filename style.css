@@ -5,13 +5,15 @@ body {
 }
 
 ul {
+ position: absolute;
  font-size: 24px; 
  top: 30%;
  left: 50%;
-  transform: translate(-50%, -50%);
+ transform: translate(-50%, -50%);
 }
 
 p {
+  position: absolute;
   font-size: 24px; 
   top: 20%;
   left: 50%;
