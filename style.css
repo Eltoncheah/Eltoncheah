@@ -6,10 +6,16 @@ body {
 
 ul {
  font-size: 24px; 
+ top: 30%;
+ left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 p {
   font-size: 24px; 
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 h1 {
