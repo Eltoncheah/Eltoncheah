@@ -11,6 +11,13 @@ ul {
  left: 50%;
  transform: translate(-50%, -50%);
  text-decoration: none;
+}
+
+ul li{
+display: inline-block;
+}
+
+ul li a{
  color: #fff;
  padding: 10px 40px;
  border: 1px solid white;
